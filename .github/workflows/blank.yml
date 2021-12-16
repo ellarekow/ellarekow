@@ -18,4 +18,4 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_EDITORS: "False"
-          SHOW_SHORT_INFO: "False
+          SHOW_SHORT_INFO: "False"
