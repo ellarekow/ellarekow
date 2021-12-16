@@ -10,5 +10,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellarekow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--START_SECTION:waka-->
+```text
+Java         1 hr 40 mins    ████████████████████████▓   99.12 % 
+```
 <!--END_SECTION:waka-->
 
