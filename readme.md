@@ -19,8 +19,6 @@ I am a software engineering student with a passion for automation and backend de
 - Buying another plant :) 
 
 **Some of my recent coding stats!** 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllaRekow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllaRekow&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 <!--START_SECTION:waka-->
 ```text
