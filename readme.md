@@ -16,13 +16,13 @@ I am a software engineering student with a passion for automation and backend de
 - I have some projects in the works I can't wait to share
 - Over the summer I am excited to work as a software engineer inter at Netsmart
 
+**Some of my recent coding stats!** 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellarekow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellarekow&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   
 </p>
 
-**What I've been up to:**
 <!--START_SECTION:waka-->
 ```text
 Java         1 hr 40 mins    ████████████████████████▓   99.12 % 
