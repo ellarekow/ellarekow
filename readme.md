@@ -15,6 +15,7 @@ I am a software engineering student with a passion for automation and backend de
 - Helping maintain the ServiceNow platform that is utalitzed by the information techology systems department at Iowa State
 - I have some projects in the works I can't wait to share
 - Over the summer I am excited to work as a software engineer inter at Netsmart
+- Buying another plant :) 
 
 **Some of my recent coding stats!** 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellarekow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
