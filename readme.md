@@ -12,6 +12,7 @@ I am a software engineering student with a passion for automation and backend de
 
 **What I'm up to?**
 - This upcomming semester my classes are focused on front end development and advanced programming techniques(such as memeory management, maintaining programs, and much more)
+- Helping maintain the ServiceNow platform that is utalitzed by the information techology systems department at Iowa State
 - I have some projects in the works I can't wait to share
 - Over the summer I am excited to work as a software engineer inter at Netsmart
 
