@@ -22,7 +22,13 @@ I am a software engineering student with a passion for automation and backend de
 
 <!--START_SECTION:waka-->
 ```text
-Java         1 hr 40 mins    ████████████████████████▓   99.12 % 
+Week: 01 January, 2022 - 07 January, 2022
+
+TypeScript   1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   37.18 % 
+JSON         38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Bash         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Markdown     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
 <!--END_SECTION:waka-->
 
