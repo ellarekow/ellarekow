@@ -26,11 +26,11 @@ I am a software engineering student with a passion for automation and backend de
 ```text
 Week: 01 January, 2022 - 07 January, 2022
 
-TypeScript   1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   37.18 % 
-JSON         38 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Bash         18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Markdown     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+TypeScript   44 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.12 % 
+JSON         11 mins         ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.54 % 
+JavaScript   11 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.44 % 
+Markdown     2 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.45 % 
+Bash         1 min           ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.40 % 
 ```
 <!--END_SECTION:waka-->
 
