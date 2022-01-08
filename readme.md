@@ -10,7 +10,9 @@
 
 I am a software engineering student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! 
 <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
+
 **What I'm up to?**
+
 - This upcomming semester my classes are focused on front end development and advanced programming techniques(such as memeory management, maintaining programs, and much more)
 - Helping maintain the ServiceNow platform that is utalitzed by the information techology systems department at Iowa State
 - Creating TikToks to help teach people about the tech world
