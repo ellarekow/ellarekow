@@ -15,7 +15,7 @@ I am a software engineering student with a passion for automation and backend de
 - Helping maintain the ServiceNow platform that is utalitzed by the information techology systems department at Iowa State
 - Creating TikToks to help teach people about the tech world
 - I have some projects in the works I can't wait to share
-- Over the summer I am excited to work as a software engineer inter at Netsmart
+- Over the summer I am excited to work as a software engineer intern at Netsmart
 - Buying another plant :) 
 
 **Some of my recent coding stats!** 
