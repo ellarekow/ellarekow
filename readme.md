@@ -20,7 +20,7 @@ I am a software engineering student with a passion for automation and backend de
 - Over the summer I am excited to work as a software engineer intern at Netsmart
 - Buying another plant :) 
 
-**Some of my recent coding stats!** 
+**What've I been up to this week?** 
 
 <!--START_SECTION:waka-->
 ```text
