@@ -24,7 +24,7 @@ I am a software engineering student with a passion for automation and backend de
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
 Java          1 hr 23 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀   65.05 % 
 JavaScript    14 mins         ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.37 % 
