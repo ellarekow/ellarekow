@@ -8,17 +8,19 @@
 
 ### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EllaRekow.EllaRekow)
 
-I am a software engineering student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! 
+I am a software engineering student with a passion for automation and frontend development, and finding ways to improve the world with my talents and passions! 
+
 <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
 
 **What I'm up to?**
 
-- This upcomming semester my classes are focused on front end development and advanced programming techniques(such as memeory management, maintaining programs, and much more)
-- Helping maintain the ServiceNow platform that is utalitzed by the information techology systems department at Iowa State
+- Refactoring a product's frontend utilizing [Bootstrap Vue](https://bootstrap-vue.org/) and [VueJS](https://vuejs.org/) at Netsmart
+- Developing my skills as a software engineerings with classes like Software Development Practicies, Discete Math, Database Management Systems, and Computer Architecture. 
 - Creating TikToks to help teach people about the tech world
 - I have some projects in the works I can't wait to share
-- Over the summer I am excited to work as a software engineer intern at Netsmart
+- Over the summer I am excited to work as a software engineer intern again at Netsmart
 - Buying another plant :) 
+- You can learn more about me [here :)](https://www.linkedin.com/in/ella-rekow-95985a182/)
 
 **What've I been up to this week?** 
 
