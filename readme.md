@@ -15,8 +15,9 @@ I am a software engineering student with a passion for automation and frontend d
 **What I'm up to?**
 
 - Refactoring a product's frontend utilizing [Bootstrap Vue](https://bootstrap-vue.org/) and [VueJS](https://vuejs.org/) at Netsmart
-- Developing my skills as a software engineerings with classes like Software Development Practicies, Discete Math, Database Management Systems, and Computer Architecture. 
+- Developing my skills as a software engineerings with classes like Software Architecture, Operating Systems, Software Testing, and Design and Analysis of Algorithms 
 - Creating TikToks to help teach people about the tech world
+- Learning Unity and practicing C# to create games
 - I have some projects in the works I can't wait to share
 - Over the summer I am excited to work as a software engineer intern again at Netsmart
 - Buying another plant :) 
