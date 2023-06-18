@@ -28,7 +28,7 @@ I am a software engineering student with a passion for automation and frontend d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
 TypeScript   13 hrs 30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀   88.48 %
 Other        59 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.46 %
