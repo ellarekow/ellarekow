@@ -28,10 +28,10 @@ I am a software engineering student with a passion for automation and frontend d
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 January 2024 - To: 23 January 2024
+From: 17 January 2024 - To: 24 January 2024
 
-Other    14 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.34 %
-Python   2 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.66 %
+Other    15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   83.92 %
+Python   2 mins          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.08 %
 ```
 
 <!--END_SECTION:waka-->
