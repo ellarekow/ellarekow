@@ -14,12 +14,10 @@ I am a software engineering student with a passion for automation and frontend d
 
 **What I'm up to?**
 
-- Refactoring a product's frontend utilizing [React](https://react.dev/), [Typescript](https://www.typescriptlang.org/) and [MaterialUI](https://mui.com/) at Netsmart
 - Developing my skills as a software engineerings with classes like Software Architecture, Operating Systems, Software Testing, and Design and Analysis of Algorithms 
 - Creating TikToks to help teach people about the tech world
 - Learning Unity and practicing C# to create games
 - I have some projects in the works I can't wait to share
-- Over the summer I am excited to work as a software engineer intern again at Netsmart
 - Buying another plant :) 
 - You can learn more about me [here :)](https://www.linkedin.com/in/ella-rekow-95985a182/)
 
